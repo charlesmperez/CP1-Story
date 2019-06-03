@@ -6,8 +6,11 @@ I brush my teeth.
 I put my shoes on.
 I put my school stuff in my bag.
 I go to school.
-I go to my first period class.
-I go to my second period class.
-I go to my third period class.
-I go to my fourth period class.
-I go to lunch.
+first period
+second period 
+third period
+fourth period
+fifth period
+sixth period
+seventh period
+eighth period
