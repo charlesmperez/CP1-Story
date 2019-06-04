@@ -2,7 +2,14 @@ I wake up.
 I get ready for school.
 I eat breakfast.
 I go to school.
-I do school.
+I go to first period.
+I go to second period.
+I go to third period.
+I go to fourth period.
+I go to fifth period.
+I go to sixth period.
+I go to seventh period.
+I go to eighth period.
 I go home.
 I do homework.
 I eat dinner.
